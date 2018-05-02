@@ -18,7 +18,6 @@ public class RandomGenerator {
         // 97 - 122
         int n = generateRandomInt(26) + 97;
         return (char) n;
-    };
-
+    }
 
 }
