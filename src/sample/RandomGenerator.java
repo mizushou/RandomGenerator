@@ -2,11 +2,11 @@ package sample;
 
 import java.util.Random;
 
-public class RandomIntGenerator {
+public class RandomGenerator {
 
     private Random randomGenerator;
 
-    public RandomIntGenerator() {
+    public RandomGenerator() {
         this.randomGenerator = new Random();
     }
 
